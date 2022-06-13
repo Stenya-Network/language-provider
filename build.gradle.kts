@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "net.stenya"
+group = "net.stenya.cacheoverflow"
 version = "1.0.0"
 
 repositories {
